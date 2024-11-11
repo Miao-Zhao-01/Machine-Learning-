@@ -24,3 +24,10 @@ Conversely, we made an intriguing observation: when we supplied incorrect but pl
 <img width="638" alt="image" src="https://github.com/user-attachments/assets/5910b51b-9d25-4fc0-ae6f-e6e52c258b2f">
 </div>
 
+# Main references
+[1] Charles J Geyer. Introduction to markov chain monte carlo. Handbook of markov chain monte carlo, 20116022:45, 2011.  
+[2] Nia C Jenkins, Katjana Ehrlich, Andr´as Kufcs´ak, Stephanos Yerolatsitis, Susan Fernandes, Irene Young, Katie Hamilton, Harry AC Wood, Tom Quinn, Vikki Young, et al. Computational fluorescence suppression in shifted excitation raman spectroscopy. IEEE Transactions on Biomedical Engineering, 2023.  
+[3] Roger M Jarvis, Alan Brooker, and Royston Goodacre. Surface-enhanced raman spectroscopy for bacterial discrimination utilizing a scanning electron microscope with a raman spectroscopy interface. Analytical Chemistry, 76(17):5198–5202, 2004.  
+[4] Andrzej Kudelski. Analytical applications of raman spectroscopy. Talanta, 76(1):1–8, 2008.  
+[5] Jun S Liu and Jun S Liu. Monte Carlo strategies in scientific computing, volume 75. Springer, 2001.  
+[6] Chris Sherlock, Paul Fearnhead, and Gareth O Roberts. The random walk metropolis: linking theory and practice through a case study. 2010.
